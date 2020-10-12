@@ -34,7 +34,7 @@
 
 h1, h2 {
     text-align: center;
-    margin: 5rem auto;
+    margin: 5rem auto 2rem auto;
 }
 
 #no-wrap div, #wrap div {
