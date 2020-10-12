@@ -36,3 +36,20 @@ h1, h2 {
     text-align: center;
     margin: 5rem auto;
 }
+
+#no-wrap div, #wrap div {
+    flex-basis: 200px;
+}
+
+#justify>div>div>div {
+    width: 200px;
+}
+
+#align-items>div>div {
+    height: 300px;
+    background-color: grey;
+}
+
+#align-items>div>div>div {
+    width: 200px;
+}
