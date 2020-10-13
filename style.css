@@ -4,8 +4,12 @@
     box-sizing: border-box;
 }
 
+.col {
+    min-height: 100px;
+}
+
 [class*="col-"] {
-  min-height: 100px;;
+  min-height: 100px;
 }
 
 .red {
